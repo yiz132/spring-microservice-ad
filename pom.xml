@@ -12,6 +12,7 @@
     <modules>
         <module>ad-eureka</module>
         <module>ad-gateway</module>
+        <module>james-ad-service</module>
     </modules>
 
     <name>james-ad-spring-cloud</name>
