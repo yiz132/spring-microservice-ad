@@ -16,3 +16,4 @@ public class WebConfiguration implements WebMvcConfigurer {
         converters.add(new MappingJackson2HttpMessageConverter());
     }
 }
+
