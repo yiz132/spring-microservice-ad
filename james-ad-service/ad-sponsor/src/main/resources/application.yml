@@ -14,9 +14,9 @@ spring:
       hibernate.format_sql: true
     open-in-view: false
   datasource:
-    url: jdbc:mysql://localhost:8889/james_ad_data?autoReconnect=true
-    username: jameszyx
-    password: mon007
+    url: jdbc:mysql://127.0.0.1:3306/james_ad_data?autoReconnect=true
+    username: root
+    password: Zyx940505+
     tomcat:
       max-active: 4
       min-idle: 2
