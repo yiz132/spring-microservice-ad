@@ -11,6 +11,6 @@ import java.util.List;
 @AllArgsConstructor
 public class Template {
 
-    private String databases;
+    private String database;
     private List<JsonTable> tableList;
 }
